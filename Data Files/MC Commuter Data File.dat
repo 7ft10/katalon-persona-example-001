@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>94751059-975a-460c-81ba-eeb9b0e1517f</dataFileGUID>
-   <dataSourceUrl>C:\Users\MikeBurns\OneDrive\Knowledge Base\_Talks\2022 - Personas - Brisbane Agile Meetup March 2022\personas-test\Data Files\MC Commuter.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\mike\Documents\Github\katalon-persona-example-001\Data Files\MC Commuter.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
